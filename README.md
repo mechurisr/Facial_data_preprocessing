@@ -4,8 +4,8 @@ The method used to create image dataset for facial emotion recognition project.
 (full project can be found here: https://github.com/mechurisr/finalProject)
 
 
-This set of Jupiter Notebook codes collect image data from Google image using selenium, and identifies facial images to save them using Dlib and OpenCv.  
-Also includes Facial Landmarking functions and guidelines to turn them into dataset.
+This set of Jupiter Notebook codes collect image data from Google image using selenium, and identifies facial images to save them using Dlib and OpenCV.  
+Also includes Facial Landmarking functions and guidelines to turn them into a dataset.
 
 ### chromeCrawilingSel.pynb
 * Requirements   
