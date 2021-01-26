@@ -1,4 +1,4 @@
-## Facial_data_preprocessing (Chanwook Lee)
+## Facial_data_preprocessing
 
 The method used to create image dataset for facial emotion recognition project.  
 (full project can be found here: https://github.com/mechurisr/finalProject)
